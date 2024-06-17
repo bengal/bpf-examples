@@ -17,6 +17,7 @@ SUBDIRS := encap-forward
 SUBDIRS += ktrace-CO-RE
 SUBDIRS += lsm-nobpf
 SUBDIRS += nat64-bpf
+SUBDIRS += clat46
 SUBDIRS += pkt-loop-filter
 SUBDIRS += pping
 SUBDIRS += preserve-dscp
